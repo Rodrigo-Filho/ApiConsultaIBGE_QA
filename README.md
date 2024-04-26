@@ -1,3 +1,5 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=RodrigoFiapp_ApiConsultaIBGE_QA)](https://sonarcloud.io/summary/new_code?id=RodrigoFiapp_ApiConsultaIBGE_QA)
+
 # API de Consulta do IBGE
 
 Este projeto é uma simples aplicação Java que utiliza a API do IBGE para consultar informações sobre estados brasileiros.
